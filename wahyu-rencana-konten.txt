@@ -1,4 +1,6 @@
 RENCANA KONTEN WAHYU
 -Javascript
+*ES6
+*Framework Javascript
 -PHP framework
 -vlog
