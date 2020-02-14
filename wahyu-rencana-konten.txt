@@ -2,6 +2,9 @@ RENCANA KONTEN WAHYU
 -Javascript
 *ES6
 *Framework Javascript
+  ^vue
 -struktur data
 -PHP framework
+  ^laravel
 -vlog
+-python
